@@ -1,6 +1,6 @@
 # Hi, I'm skapenAI 👋
 
-### Telecommunications Engineer · Sailor · Tech Entrepreneur
+### Telecommunications Engineer · Sailor · Photographer · Tech Entrepreneur
 
 > *"Technology should work as reliably as a compass at sea."*
 
@@ -10,10 +10,12 @@
 
 I'm a **telecommunications engineer** with a passion for building practical technology solutions that solve real-world problems.
 
-When I'm not writing code, I'm **sailing** – which gives me a unique perspective on technology:
+When I'm not writing code, I'm **sailing the world on my private yacht** – which gives me a unique perspective on technology:
 - Systems must work **reliably** when there's no one to call for help
 - Solutions must be **simple enough** to use in challenging conditions
 - **Backup plans** are not optional – they're essential
+
+As a **yacht sailor and world cruiser**, I understand what it means to depend on technology in remote places. As a **photographer**, I see the world differently – details matter, composition matters, every element has a purpose.
 
 This philosophy shapes everything I build.
 
@@ -22,11 +24,12 @@ This philosophy shapes everything I build.
 ## 🚀 What I Build
 
 ```
-⛵ Marine Technology        →  Smart solutions for sailors & offshore cruisers
-🏠 Home Automation          →  Privacy-first, local, no cloud required  
-🔒 Security & Monitoring    →  Networks, cameras, VPN, intrusion detection
-📡 Networking               →  Print servers, DNS, routing, connectivity
-🤖 AI-assisted Development  →  Practical automation built with AI collaboration
+⛵ Marine & Yacht Technology    →  Smart solutions for offshore sailors & world cruisers
+🏠 Home Automation              →  Privacy-first, local, no cloud required  
+🔒 Security & Monitoring        →  Networks, cameras, VPN, intrusion detection
+📡 Networking                   →  Print servers, DNS, routing, connectivity
+📷 Photography Tech             →  Automation tools for photographers
+🤖 AI-assisted Development      →  Practical automation built with AI collaboration
 ```
 
 ---
